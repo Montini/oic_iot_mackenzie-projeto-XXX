@@ -11,7 +11,9 @@
 ## Hardware Utilizado:
 
 * Arduino
+![](arduino.jpg)
 * Raspberry Pi
+![](rpi.jpg)
 * NodeMCU
 ![](nodemcu.jpg)
 * Servo
@@ -19,3 +21,4 @@
 * Sensor de chuva
 ![](sensorchuva.jpg)
 * PaperSignal
+![](google_paper_signals.jpg)

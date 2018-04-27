@@ -1,75 +1,51 @@
-# Documento de Visão do Projeto "NOME DO PROJETO"
+# Documento de Visão do Projeto "CHOVE MAS NÃO MOLHA"
 
-Este documento apresenta uma solução de software para o projeto *"NOME DO PROJETO"*, 
+Este documento apresenta uma solução de software e hardware para o projeto *"CHOVE MAS NÃO MOLHA"*, 
 apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades esperadas.
 
 ## Objetivos
 
-* Objetivo 1
-* Objetivo 2
-* Objetivo 3
-* etc.
+* Estabelecer comunicação entre Arduino e Raspberry Pi via Firmata (Unidade 1). 
+* Conectar um sensor de chuva à Unidade 1.
+* Conectar um servo à um módulo NodeMCU (Unidade 2).
+* Enviar dados a partir da Unidade 1 para a Unidade 2, utilizando um broker MQTT e Node-Red.
+* Acionar o Servo (remotamente) na Unidade 2, na presença/detecção de chuva na Unidade 1.
 
 ## Problema
 
-* Descrição do problema: ___
-* Quem é afetado pelo problema: ____
-* Impacto no negócio: ___
-* Benefícios de uma boa solução: ___
+* Descrição do problema: Consequências negativas geradas pela falta de monitoramento em tempo real, sob efeito do grande volume de chuvas.
+* Quem é afetado pelo problema: Pessoas, imóveis, comerciantes, indústrias, agro-negócio.
+* Impacto no negócio: Agilidade na tomada de decisões decorrentes da chuva.
+* Benefícios de uma boa solução: A prevenção de efeitos negativos causados pela chuva.
 
 ## Definições, abreviações e outros termos do domínio do problema
 
-* Definição 1
-* Definição 2
-* Definição 3
-* etc.
+* Unidade 1: É composta de 1 Arduino, 1 Raspberry Pi, 1 Sensor de chuva.
+* Unidade 2: É composta de 1 NodeMCU, 1 Servo, 1 PaperSignal
+* PaperSignal: Dobradura em papel em formato de guarda-chuva.
 
 ## Integração com outros sistemas
 
-* Sistema externo 1
-* Sistema externo 2
-* Sistema externo 3
-* etc.
+* Amazon AWS IoT.
  
 ## Interessados
 
-* Tipo de interessado 1
-* Tipo de interessado 2
-* Tipo de interessado 3
-* etc.
+* Indivíduos e setores que desejam monitorar em tempo real a presença de chuva em locais remotos.
 
 ## Usuários
 
-* Tipo de usuário 1
-* Tipo de usuário 2
-* Tipo de usuário 3
-* etc.
+* Pessoas comuns.
+* Estudantes.
+* Hobistas. 
+* Empresas.
+* Agro negócio.
 
 ## Funcionalidades do produto
 
-* Funcionalidade 1
-* Funcionalidade 2
-* etc.
+* Monitoramento remoto da presença de chuva, via soluções MQTT.
+* Acionamento de servo
 
 ## Restrições do projeto
 
-* Restrição 1
-* Restrição 2
-* Restrição 3
-* etc.
-
-## Protótipos
-
-### Protótipos para funcionalidade 1
-
-![](proto1.png)
-
-Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
-
-### Protótipos para funcionalidade 2
-
-![](proto2.png)
-
-Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
-
-### Protótipos para funcionalidade N
+* Ter acesso à internet.
+* Cada unidade deve estar conectada a uma fonte de energia.

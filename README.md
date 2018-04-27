@@ -12,13 +12,18 @@
 
 * Arduino
 ![](arduino.jpg)
+
 * Raspberry Pi
 ![](rpi.jpg)
+
 * NodeMCU
 ![](nodemcu.jpg)
+
 * Servo
 ![](servo.jpg)
+
 * Sensor de chuva
 ![](sensorchuva.jpg)
+
 * PaperSignal
 ![](google_paper_signals.jpg)

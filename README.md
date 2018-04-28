@@ -1,6 +1,6 @@
 # Objetos Inteligentes Conectados 1 sem. 2018
 
-## Projeto: "Chove Mas Não Molha"
+## Projeto: "CHOVE MAS NÃO MOLHA"
 
 ## Integrantes do grupo:
 

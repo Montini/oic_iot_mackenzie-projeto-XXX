@@ -10,5 +10,5 @@
 
 ## Conteúdo do Repositório
 * **/Documentação**
-    - [Visão](/docs/1-visao/index.md)
+    - [Visão do Projeto](/docs/1-visao/index.md)
 * **[/Hardware](/docs/hardware/index.md)**

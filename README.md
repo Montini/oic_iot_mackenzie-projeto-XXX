@@ -4,14 +4,14 @@
 
 ## Integrantes do grupo:
 
-* 41427981  Sergio A. Montini Jr. 05J
-* 31638236  Sabrinna Delgado      05F
-* 31535879  Lucas Pafume          05F
+* **41427981**  Sergio A. Montini Jr. - *05J*
+* **31638236**  Sabrinna Delgado - *05F*
+* **31535879**  Lucas Pafume - *05F*
 
 ## Documentação
 * [Escopo do projeto](/docs/1-visao/index.md)
 
-## Hardware Utilizado:
+## Hardware Utilizado
 
 ### Arduino
 ![](arduino.jpg)

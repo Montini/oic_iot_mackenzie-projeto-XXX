@@ -8,6 +8,9 @@
 * 31638236  Sabrinna Delgado      05F
 * 31535879  Lucas Pafume          05F
 
+## Documentação
+* [Escopo do projeto](projeto-chove-mas-nao-molha/docs/1-visao/index.md)
+
 ## Hardware Utilizado:
 
 ### Arduino

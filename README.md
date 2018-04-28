@@ -13,7 +13,7 @@
 ### Arduino
 ![](arduino.jpg)
 ### Raspberry Pi
-![](rpi.jpg)
+![](rpi1.png)
 ### NodeMCU
 ![](nodemcu.png)
 ### Servo

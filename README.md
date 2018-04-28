@@ -9,5 +9,5 @@
 * **31535879**  Lucas Pafume - *05F*
 
 ## Conteúdo do Repositório
-* **[/Documentação](/docs/1-visao/index.md)**
-* **[/Hardware](/docs/hardware/index.md)**
+**[/Documentação](/docs/1-visao/index.md)**
+**[/Hardware](/docs/hardware/index.md)**

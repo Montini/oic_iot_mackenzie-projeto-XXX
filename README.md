@@ -9,7 +9,7 @@
 * 31535879  Lucas Pafume          05F
 
 ## Documentação
-* [Escopo do projeto](projeto-chove-mas-nao-molha/docs/1-visao/index.md)
+* [Escopo do projeto](/docs/1-visao/index.md)
 
 ## Hardware Utilizado:
 

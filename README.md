@@ -15,10 +15,10 @@
 ### Raspberry Pi
 ![](rpi.jpg)
 ### NodeMCU
-![](nodemcu1.jpg)
+![](nodemcu2.jpg)
 ### Servo
-![](servo1.jpg)
+![](servo2.jpg)
 ### Sensor de chuva
-![](sensorchuva1.jpg)
+![](sensorchuva2.jpg)
 ### PaperSignal
 ![](google_paper_signals.jpg)

@@ -1,15 +1,15 @@
-#Documentação das Interfaces Gráficas (GUI)
+# Documentação das Interfaces Gráficas (GUI)
 
-##Aplicativos para Android ou IOS (desenhos de telas e esquemas de navegação - mockup)
+## Aplicativos para Android ou IOS (desenhos de telas e esquemas de navegação - mockup)
 
 * Node-red Dashboard
 * MQTT Dash (Android)
 
-##Rede e hardware
+## Rede e hardware
 
 -Descrição de placas e protocolos utilizados (GPRS, WiFi, LoRA etc).
 
-###Hardware:
+### Hardware:
 
 + Raspberry Pi
 * Arduino
@@ -17,15 +17,15 @@
 Sensor de chuva
 Servo
 
-##Protocolos:
+## Protocolos:
 
 * Wifi
 
-##Protocolos na camada de aplicação (MQTT, HTTP, etc)
+## Protocolos na camada de aplicação (MQTT, HTTP, etc)
 
 * MQTT
 * HTTP
 
-##Protocolos de comunicação USB-Serial (Ex. Firmata, etc)
+## Protocolos de comunicação USB-Serial (Ex. Firmata, etc)
 
 Firmata.

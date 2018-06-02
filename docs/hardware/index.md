@@ -7,7 +7,7 @@
 ### **Sensor de chuva**
 ![](sensorchuva.png)
 ### **Sensor de temperatura e umidade**
-![](dht22.png)
+![](dht22-1.png)
 ### **LEDs**
 ![](leds.png)
 ### **PaperSignal** [(Google Signal)](https://papersignals.withgoogle.com/)

@@ -1,14 +1,16 @@
 ## Hardware Utilizado
 
-### **Arduino**
-![](arduino.jpg)
-### **Raspberry Pi**
-![](rpi1.png)
 ### **NodeMCU**
 ![](nodemcu.png)
-### **Servo**
+### **Micro-servo**
 ![](servo.png)
 ### **Sensor de chuva**
 ![](sensorchuva.png)
+### **Sensor de temperatura e umidade**
+![](dht22.png)
+### **LEDs**
+![](led.png)
 ### **PaperSignal** [(Google Signal)](https://papersignals.withgoogle.com/)
 ![](google_paper_signals.jpg)
+### **Cabos jumper**
+![](conectores.png)

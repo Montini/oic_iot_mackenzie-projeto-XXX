@@ -7,10 +7,11 @@ apresentando os problemas a serem solucionados, as necessidades dos principais e
 
 * Utilização do módulo NodeMCU como agregador dos sensores.
 * Conectar um sensor de chuva ao NodeMCU.
-* Conectar um sensor de temperatura e umidade ao NodeMCU.
-* Conectar um servo ao módulo NodeMCU.
+* Conectar um sensor de temperatura/umidade ao NodeMCU.
+* Acionamento de LEDs (verde e vermelho) indicando status de ambiente seco ou molhado.
+* Conectar um micro-servo ao NodeMCU.
 * Enviar via internet dados gerados a partir dos sensores, utilizando um broker MQTT.
-* Acionar o Servo mediante a presença/detecção de chuva e abrir o guarda-chuva de papel.
+* Acionar o micro-servo mediante a presença/detecção de chuva e abrir o guarda-chuva de papel.
 
 ## Problema
 
@@ -21,13 +22,8 @@ apresentando os problemas a serem solucionados, as necessidades dos principais e
 
 ## Definições, abreviações e outros termos do domínio do problema
 
-* Unidade 1: É composta de 1 Arduino, 1 Raspberry Pi, 1 Sensor de chuva.
-* Unidade 2: É composta de 1 NodeMCU, 1 Servo, 1 PaperSignal
-* PaperSignal: Dobradura em papel em formato de guarda-chuva.
-
-## Integração com outros sistemas
-
-* Amazon AWS IoT.
+* NodeMCU: Dispositivo composto por um chip controlador (ESP8266 ESP-12E), uma porta micro USB para alimentação e programação, conversor USB serial integrado e WiFi nativo.
+* Guarda-chuva: Dobradura em papel em formato de guarda-chuva.
  
 ## Interessados
 
@@ -44,7 +40,8 @@ apresentando os problemas a serem solucionados, as necessidades dos principais e
 ## Funcionalidades do produto
 
 * Monitoramento remoto da presença de chuva, via soluções MQTT.
-* Acionamento de servo.
+* Acionamento do servo (abrir guarda-chuva de papel).
+* Acionamento de LEDs de status (LED verde para clima seco, LED vermelho para molhado).
 
 ## Restrições do projeto
 

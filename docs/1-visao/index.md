@@ -5,11 +5,12 @@ apresentando os problemas a serem solucionados, as necessidades dos principais e
 
 ## Objetivos
 
-* Estabelecer comunicação entre Arduino e Raspberry Pi via Firmata (Unidade 1). 
-* Conectar um sensor de chuva à Unidade 1.
-* Conectar um servo à um módulo NodeMCU (Unidade 2).
-* Enviar dados a partir da Unidade 1 para a Unidade 2, utilizando um broker MQTT e Node-Red.
-* Acionar o Servo (remotamente) na Unidade 2, na presença/detecção de chuva na Unidade 1.
+* Utilização do módulo NodeMCU como agregador dos sensores.
+* Conectar um sensor de chuva ao NodeMCU.
+* Conectar um sensor de temperatura e umidade ao NodeMCU.
+* Conectar um servo ao módulo NodeMCU.
+* Enviar via internet dados gerados a partir dos sensores, utilizando um broker MQTT.
+* Acionar o Servo mediante a presença/detecção de chuva e abrir o guarda-chuva de papel.
 
 ## Problema
 
@@ -43,9 +44,9 @@ apresentando os problemas a serem solucionados, as necessidades dos principais e
 ## Funcionalidades do produto
 
 * Monitoramento remoto da presença de chuva, via soluções MQTT.
-* Acionamento de servo
+* Acionamento de servo.
 
 ## Restrições do projeto
 
 * Ter acesso à internet.
-* Cada unidade deve estar conectada a uma fonte de energia.
+* A unidade deve estar conectada a uma fonte de energia.

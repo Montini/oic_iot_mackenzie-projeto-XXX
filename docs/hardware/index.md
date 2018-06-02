@@ -13,4 +13,4 @@
 ### **PaperSignal** [(Google Signal)](https://papersignals.withgoogle.com/)
 ![](google_paper_signals.jpg)
 ### **Cabos jumper**
-![](conectores.png)
+![](conectores1.png)

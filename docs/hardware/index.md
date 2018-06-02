@@ -3,7 +3,7 @@
 ### **NodeMCU**
 ![](nodemcu.png)
 ### **Micro-servo**
-![](servo.png)
+![](microservo.png)
 ### **Sensor de chuva**
 ![](sensorchuva.png)
 ### **Sensor de temperatura e umidade**

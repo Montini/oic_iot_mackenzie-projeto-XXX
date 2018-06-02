@@ -9,7 +9,7 @@
 ### **Sensor de temperatura e umidade**
 ![](dht22-2.png)
 ### **LEDs**
-![](leds.png)
+![](leds-1.png)
 ### **PaperSignal** [(Google Signal)](https://papersignals.withgoogle.com/)
 ![](google_paper_signals.jpg)
 ### **Cabos jumper**

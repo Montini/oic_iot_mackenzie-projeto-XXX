@@ -1,6 +1,6 @@
 ## Hardware Utilizado
 
-### **NodeMCU ESP8266: 1x**
+### **NodeMCU ESP8266:**
 ![](nodemcu.png)
 - Padrões wireless: IEEE 802.11b, IEEE 802.11g, IEEE 802.11n;
 - Faixa de frequência: 2.4GHz;
@@ -16,7 +16,7 @@
 - Dimensão: 60 x 32 x 15 mm;
 - Peso: 3g
 -------------------------
-### **Micro-servo: 1X MG90S**
+### **Micro-servo: MG90S**
 ![](microservo1.png)
 - Tensão de Alimentação: 3,0 - 6,0V;
 - Corrente de Operação 0,1 - 1,2A;
@@ -29,7 +29,7 @@
 - Dimensões 22.8 x 12.2 x 28.5mm;
 - Peso 14g
 -------------------------
-### **Sensor de chuva: 1x FC-37 ou YL-83**
+### **Sensor de chuva: FC-37 ou YL-83**
 ![](sensorchuva.png)
 - Tensão de Operação: 3,3-5v;
 - Corrente de Saída: 100mA;
@@ -43,7 +43,7 @@
 - Dimensões Placa de Controle: 2,1x1,4 cm;
 - Comprimento Cabo: 20 cm
 -------------------------
-### **Sensor de temperatura e umidade 1x DHT22**
+### **Sensor de temperatura e umidade: DHT22**
 ![](dht22-2.png)
 - Faixa de medição de umidade: 0 a 100% UR;
 - Faixa de medição de temperatura: -40º a 80ºC;
@@ -54,7 +54,7 @@
 - Tempo de resposta: 2 seg;
 - Dimensões: 25 x 15 x 7mm (sem terminais)
 -------------------------
-### **LEDs: 2x**
+### **LEDs:**
 ![](leds-4.png)
 - Cor: 1x Verde, 1x Vermelho;
 - Diâmetro: 3mm;
@@ -65,13 +65,13 @@
 - Projeto original do Google conhecido como *Google Signal* [(Google Signal)](https://papersignals.withgoogle.com/static/files/umbrella.pdf) 
 ![](papersignals2.jpg)
 -------------------------
-### **Cabos jumper**
+### **Cabos jumper (Diversos)**
 ![](conectores1.png)
-- Tipo: Macho x Fêmea;
+- Tipo: Macho x Macho;
 - Secção do condutor: 24 AWG (0,2 mm²);
 - Peso: 16 gramas
 -------------------------
-### **Protoboard: 1x 380 pontos**
+### **Protoboard:**
 ![](protoboard1.png)
 - Quantidade de pontos: 830;
 - Barramento de alimentação: 2 pares (+ e -);
@@ -83,8 +83,9 @@
 - Dimensões: 165mm x 55mm x 10mm;
 - Peso: 70 gramas
 ------------------------
-### **Cabo USB: 1x A/MicroB**
+### **Cabo USB: 1x**
 ![](cabousb1.png)
+- Tipo: A/MicroB
 ------------------------
 ### **Montagem**
 ![](/cmnm-bb.png)

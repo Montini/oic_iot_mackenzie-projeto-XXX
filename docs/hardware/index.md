@@ -2,6 +2,20 @@
 
 ### **NodeMCU ESP8266: 1x**
 ![](nodemcu.png)
+- Padrões wireless: IEEE 802.11b, IEEE 802.11g, IEEE 802.11n;
+- Faixa de frequência: 2.4GHz;
+- Taxa de transmissão: 110 à 460 Mbps;
+- Antena Embutida;
+- Interface: Serial UART (Tx / Rx);
+- Segurança: WEP / WPA / TKIP / AES;
+- Alimentação: 4,0 à 9,0 VDC (conector Micro USB);
+- Tensão Lógica: 3,3 VDC;
+- Consumo: Min 70 mA (Standby) e Máx 220 mA (802.11b, CCK 1Mbps,Pout=+19.5dBm);
+- Conversor A/D: 10 bits ADC e Vin 0 à 1 VDC;
+- GPIO: 11 portas;
+- Dimensão: 60 x 32 x 15 mm;
+- Peso: 3g;
+-------------------------
 ### **Micro-servo: 1X MG90S**
 ![](microservo1.png)
 ### **Sensor de chuva: 1x FC-37 ou YL-83**

@@ -19,10 +19,8 @@
 ### **Cabo USB: 1x A/MicroB**
 ![](cabousb1.png)
 ### **Montagem**
-![](cmnm-bb.png)
+![](projeto-chove-mas-nao-molha/cmnm-bb.png)
 ### **Esquema Eletrônico**
-![](cmnm-schem.png)
+![](projeto-chove-mas-nao-molha/cmnm-schem.png)
 ### **Materiais para confecção (utilizado para recorte e colagem da dobradura do guarda-chuva**
-*Estilete
-*Cola
 ![](materiais.png)

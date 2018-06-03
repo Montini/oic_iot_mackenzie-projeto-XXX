@@ -1,18 +1,18 @@
 ## Hardware Utilizado
 
-### **NodeMCU**
+### **NodeMCU ESP8266: 1x **
 ![](nodemcu.png)
-### **Micro-servo**
+### **Micro-servo: 1X MG90S**
 ![](microservo1.png)
-### **Sensor de chuva**
+### **Sensor de chuva: 1x FC-37 ou YL-83**
 ![](sensorchuva.png)
 ### **Sensor de temperatura e umidade**
 ![](dht22-2.png)
-### **LEDs**
+### **LEDs: 2x (verde e vermelho)**
 ![](leds-4.png)
 ### **PaperSignal** [(Google Signal)](https://papersignals.withgoogle.com/static/files/umbrella.pdf)
 ![](papersignals2.jpg)
 ### **Cabos jumper**
 ![](conectores1.png)
-### **Protoboard**
+### **Protoboard: 1x 380 pontos**
 ![](protoboard1.png)

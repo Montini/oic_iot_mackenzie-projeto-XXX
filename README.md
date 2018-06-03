@@ -63,7 +63,6 @@ apresentando os problemas a serem solucionados, as necessidades dos principais e
 
 ## Restrições do projeto
 
-* Ter acesso à internet.
+* Ter acesso à internet *(para comunicação com o Broker, via MQTT)*.
 * A unidade deve estar conectada a uma fonte de energia.
 * Apesar do micro-servo conseguir trabalhar sob 3.3V fornecido através do NodeMCU, é preferível que o mesmo seja alimentado por uma fonte externa de 5V.
-

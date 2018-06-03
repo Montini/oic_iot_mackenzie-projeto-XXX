@@ -1,6 +1,6 @@
 ## Hardware Utilizado
 
-### **NodeMCU ESP8266: 1x **
+### **NodeMCU ESP8266: 1x**
 ![](nodemcu.png)
 ### **Micro-servo: 1X MG90S**
 ![](microservo1.png)
@@ -18,3 +18,11 @@
 ![](protoboard1.png)
 ### **Cabo USB: 1x A/MicroB**
 ![](cabousb1.png)
+### **Montagem**
+![](cmnm-bb.png)
+### **Esquema Eletrônico**
+![](cmnm-schem.png)
+### **Materiais para confecção (utilizado para recorte e colagem da dobradura do guarda-chuva**
+*Estilete
+*Cola
+![](materiais.png)

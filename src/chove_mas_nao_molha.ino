@@ -15,8 +15,8 @@
 
 //const char* ssid = "cmnm";
 //const char* password = "St4rW4rs";
-const char* ssid = "Weyland-Yutani Corporation";
-const char* password = "f0ll0wth3wh1t3r4bb1t";
+const char* ssid = "SSID";
+const char* password = "SENHA";
 const char* mqtt_server = "broker.hivemq.com";
 
 int rainPin = 4;

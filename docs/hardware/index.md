@@ -61,8 +61,8 @@
 - Tensão de operação: 1,9V ~ 2,1V;
 - Corrente de operação: 20mA
 -------------------------
-### **Guarda-chuva de papel (PaperSignal)** 
-- Projeto original do Google conhecido como *Google Signal* [(Google Signal)](https://papersignals.withgoogle.com/static/files/umbrella.pdf) 
+### **Guarda-chuva de papel** 
+- Projeto original do Google, re-adaptado para o *CMNM*, conhecido como *Google Signal* [(Google Signal)](https://papersignals.withgoogle.com/static/files/umbrella.pdf) 
 ![](papersignals2.jpg)
 -------------------------
 ### **Cabos jumper (Diversos)**
@@ -83,7 +83,7 @@
 - Dimensões: 165mm x 55mm x 10mm;
 - Peso: 70 gramas
 ------------------------
-### **Cabo USB: 1x**
+### **Cabo USB:**
 ![](cabousb1.png)
 - Tipo: A/MicroB
 ------------------------

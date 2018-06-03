@@ -11,7 +11,7 @@
 ### **LEDs**
 ![](leds-4.png)
 ### **PaperSignal** [(Google Signal)](https://papersignals.withgoogle.com/static/files/umbrella.pdf)
-![](papersignals1.png)
+![](papersignals2.jpg)
 ### **Cabos jumper**
 ![](conectores1.png)
 ### **Protoboard**

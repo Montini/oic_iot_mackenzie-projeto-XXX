@@ -1,4 +1,4 @@
-# Objetos Inteligentes Conectados 1 sem. 2018
+# Objetos Inteligentes Conectados - Prof. Dr. Wilian
 
 ## Projeto: "CHOVE MAS NÃO MOLHA"
 ![](cmnm.jpg)
@@ -12,7 +12,7 @@
 ## Conteúdo do Repositório
 
 * **[docs/hardware](/docs/hardware/index.md)**
-* **[docs/interfaces_e_comunicacao/index.md](/docs/interfaces_e_comunicacao/index.md)
+* **[docs/interfaces_e_comunicacao](/docs/interfaces_e_comunicacao/index.md)**
 
 
 # Documento de Visão do Projeto "CHOVE MAS NÃO MOLHA"

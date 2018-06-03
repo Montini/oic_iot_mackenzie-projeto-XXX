@@ -65,4 +65,5 @@ apresentando os problemas a serem solucionados, as necessidades dos principais e
 
 * Ter acesso à internet.
 * A unidade deve estar conectada a uma fonte de energia.
+* Apesar do micro-servo conseguir trabalhar sob 3.3V fornecido através do NodeMCU, é preferível que o mesmo seja alimentado por uma fonte externa de 5V.
 

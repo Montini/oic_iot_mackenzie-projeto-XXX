@@ -1,6 +1,7 @@
 # Objetos Inteligentes Conectados 1 sem. 2018
 
 ## Projeto: "CHOVE MAS NÃO MOLHA"
+![](cmnm.jpg)
 
 ## Integrantes do grupo:
 

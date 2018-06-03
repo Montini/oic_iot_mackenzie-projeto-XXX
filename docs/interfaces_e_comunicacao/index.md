@@ -7,10 +7,10 @@
 Broker: **broker.hivemq.com:1883**
 
 Tópicos(Subscribe):
-- Temperatura: *cmnm/temperatura*
-- Umidade: *cmnm/humidade*
-- Índice de calor: *cmnm/indicecalor*
-- Condições do clima: *cmnm/clima*
+- Temperatura: ***cmnm/temperatura***
+- Umidade: ***cmnm/humidade***
+- Índice de calor: ***cmnm/indicecalor***
+- Condições do clima: ***cmnm/clima***
 
 ![](mqttdash.png)
 

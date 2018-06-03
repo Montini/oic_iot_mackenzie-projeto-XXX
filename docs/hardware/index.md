@@ -6,7 +6,7 @@
 ![](microservo1.png)
 ### **Sensor de chuva: 1x FC-37 ou YL-83**
 ![](sensorchuva.png)
-### **Sensor de temperatura e umidade**
+### **Sensor de temperatura e umidade 1x DHT22**
 ![](dht22-2.png)
 ### **LEDs: 2x (verde e vermelho)**
 ![](leds-4.png)

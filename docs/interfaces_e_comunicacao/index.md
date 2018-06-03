@@ -2,7 +2,7 @@
 
 ## Aplicativos para Android ou IOS
 ----------------------
-* MQTT Dash (Android)
+* [MQTT Dash] for Android(https://play.google.com/store/apps/details?id=net.routix.mqttdash)
 
 ![](mqttdash.png)
 

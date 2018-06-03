@@ -16,3 +16,5 @@
 ![](conectores1.png)
 ### **Protoboard: 1x 380 pontos**
 ![](protoboard1.png)
+### **Cabo USB: 1x A/MicroB**
+![](cabousb1.png)

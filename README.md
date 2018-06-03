@@ -15,7 +15,7 @@
 * **[docs/interfaces_e_comunicacao](/docs/interfaces_e_comunicacao/index.md)**
 
 
-# Documento de Visão do Projeto "CHOVE MAS NÃO MOLHA"
+# Visão do Projeto "CHOVE MAS NÃO MOLHA"
 
 Este documento apresenta uma solução de software e hardware para o projeto *"CHOVE MAS NÃO MOLHA"*, 
 apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades esperadas.
